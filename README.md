@@ -9,4 +9,4 @@ Common Lisp Exercism
 #### See in the [exercism track common-lisp](https://exercism.org/tracks/common-lisp)
 
 - [Exercises](./exercises.md)
-- [Concepts](./.md)
+- [Concepts](./concepts.md)
