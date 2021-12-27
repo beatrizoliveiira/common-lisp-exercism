@@ -6,7 +6,7 @@ Common Lisp Exercism
     <img width="200" src="./img/lisp-logo.png" />
 </p>
 
-#### See in the [exercism.io](https://exercism.io) site.
+#### See in the [exercism track common-lisp](https://exercism.org/tracks/common-lisp)
 
 - [Exercises](./exercises.md)
 - [Concepts](./.md)
